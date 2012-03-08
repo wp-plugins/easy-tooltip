@@ -33,11 +33,11 @@ After plugin is uploaded. Click on "Activate Now" link to fully install the plug
 
 = Why not using alt attributes for the tooltip content? =
 
-Some purists argue that it would be better to respect the semantics and to use alt attributes for the tooltip content. But there are a few advantages with the span technique: you can put all type of markup content in the tooltip, you don’t risk any code conflict, and you know it will work even in the absence of level 3 selectors or if javascript has been disabled.
+Some purists argue that it would be better to respect the semantics and to use alt attributes for the tooltip content. But there are a few advantages with the span technique: you can put all type of markup content in the tooltip, you don't risk any code conflict, and you know it will work even in the absence of level 3 selectors or if javascript has been disabled.
 
 = How to modify the style of the tooltips? =
 
-If you need to change the tooltip styles, you can always edit “easy-tooltip.css”, but a more secure way is to copy and rename this file to “custom.css”. The plugin will give the priority to your custom stylesheet when it loads. This way you minimize the risk to lose your precious customizations when upgrading the plugin in the future.
+If you need to change the tooltip styles, you can always edit "easy-tooltip.css", but a more secure way is to copy and rename this file to "custom.css". The plugin will give the priority to your custom stylesheet when it loads. This way you minimize the risk to lose your precious customizations when upgrading the plugin in the future.
 
 == Screenshots ==
 
